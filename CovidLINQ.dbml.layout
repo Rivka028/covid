@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CovidLINQ">
+  <DataContextMoniker Name="/CovidLINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5da537d6-1224-429c-817b-f37c3671f342" absoluteBounds="3.875, 1.25, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/CovidLINQDataContext/Client" />
+      <nestedChildShapes>
+        <elementListCompartment Id="94b88b13-5b32-4345-b887-22750dcc0cd2" absoluteBounds="3.89, 1.71, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
